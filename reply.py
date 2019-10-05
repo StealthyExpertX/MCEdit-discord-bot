@@ -37,8 +37,8 @@ class MCEdit(discord.Client):
       if str(role) in self.blacklisted_roles:
         return
     # If the user was replied to less than 1 day ago, don't talk.
-    #if time.time() - users_answered_times.get(message.author, 0) < 24*3600:
-    #  return
+    if time.time() - users_answered_times.get(message.author, 0) < 24*3600:
+      return
 
     # Loop through questions and check if user's message includes it.
     for question in self.answers.keys():
