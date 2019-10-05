@@ -2,6 +2,7 @@
     "blacklisted_roles": [
         "Filter Creator",
         "Smart People",
-        "Developer"
+        "Developer",
+        "Amulet Developer"
     ]
 }
