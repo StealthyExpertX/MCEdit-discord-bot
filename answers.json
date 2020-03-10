@@ -31,7 +31,7 @@
         "Amulet is a new world editor that is being developed but if you would like to help contribute here is the GitHub link: https://github.com/Amulet-Team/Amulet-Map-Editor",
         "The new world editor Amulet will replace MCEdit and it's actively being worked and we expect a few months of work at least before its ready for an alpha-test.",
         "Amulet is a ground-up rewrite of a world editor for Minecraft to handle the new (and old) world formats for Java and Bedrock platforms.",
-        "Amulet will be a new Minecraft world editor to handle 1.13 - 1.14+ worlds and all prior versions too but it's still being worked on so please be patient and see {amulet-dev} for updates on progress."
+        "Amulet will be a new Minecraft world editor to handle 1.13 - 1.14+ worlds on both java and bedrock editions and all prior versions too but it's still being worked on so please be patient and see {amulet-dev} for updates on progress."
     ],
     "when amulet": [
         "Amulet is currently being developed in people's spare time and so there is no definitive timeline for when it will be ready for use. Help is welcome.",
